@@ -38,7 +38,8 @@ export default function HomePage() {
         />
         <div className="relative z-10 text-center px-6 max-w-5xl">
           <h1 className="text-6xl md:text-8xl lg:text-9xl font-light tracking-tight mb-6 text-balance">
-            안정호, 우아함을 입다
+            안정호,<br />
+            우아함을 입다.
           </h1>
           <p className="text-lg md:text-xl text-muted-foreground font-mono max-w-2xl mx-auto mb-8 text-pretty">
             시대를 초월한 디자인과 현대적인 감각이 조화를 이루는 프리미엄 패션 브랜드입니다
